@@ -1,0 +1,2 @@
+Desafío M4 Acceso remoto y configuracion está incompleto,
+debo revisar porque tengo diferencias con la tabla de chequeo de items 
