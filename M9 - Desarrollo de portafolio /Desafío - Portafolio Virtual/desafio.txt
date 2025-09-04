@@ -1,0 +1,25 @@
+
+Desafío
+
+José Miguel Rivera
+
+---
+
+1.- Mi elección para trabajar repositorios es GitHub, conocido 
+publicamente como el hogar de los desarrolladores, además que es muy 
+fácil de utilizar y aprender.
+
+Esto, en complemento con el manejo de consola con Git (inicialmente predecesor y sustento de github)
+
+2.- Github es una herramienta muy poderosa, permitiendo crear 
+repositorios con proyectos reales y además creando un portafolio oficial 
+con github pages.
+
+3.- El propósito principal de subir los trabajos en un repositorio es 
+poder crear una documentación del camino realizado y revisado para 
+conseguir los dominios en las materias revisadas.
+
+5.- Recomiendo como buena práctica el documentar el proyecto mediante un 
+readme en markdown, de tal forma de destacar las actualizaciones y datos 
+relevantes.
+
